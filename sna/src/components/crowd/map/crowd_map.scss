@@ -1,0 +1,9 @@
+.crowd_map_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  .crowd_map_canvas {
+    width: 900px;
+    height: 550px;
+  }
+}

@@ -1,0 +1,9 @@
+.user_label_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  .user_label_canvas {
+    width: 600px;
+    height: 400px;
+  }
+}

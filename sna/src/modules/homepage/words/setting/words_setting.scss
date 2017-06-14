@@ -1,0 +1,29 @@
+.words_setting_container{
+  .tag{
+    margin: 5px;
+  }
+
+  .main{
+    display: flex;
+
+    th{
+      font-size: 10px;
+    }
+
+    td{
+      font-size: 10px;
+    }
+
+    .stops_table{
+      flex: 1 1 auto;
+      width: 300px;
+      margin: 10px 20px;
+    }
+
+    .custom_table{
+      flex: 1 1 auto;
+      width: 300px;
+      margin: 10px 20px;
+    }
+  }
+}

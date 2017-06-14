@@ -1,0 +1,9 @@
+.user_activeness_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  .user_activeness_canvas {
+    width: 500px;
+    height: 400px;
+  }
+}

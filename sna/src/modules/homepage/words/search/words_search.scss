@@ -1,0 +1,47 @@
+.words_search_container {
+
+  display: flex;
+
+  flex-direction: column;
+
+  .tag {
+
+    flex: 0 0 auto;
+    margin:5px;
+  }
+
+  .search {
+    flex: 0 0 auto;
+  }
+
+  .main {
+
+    flex: 1 0 auto;
+
+    display: flex;
+
+    justify-content: space-around;
+
+    .words_search_table {
+
+      flex: 0 0 auto;
+
+      margin-left: 10px;
+      width: 300px;
+
+      th{
+        font-size: 10px;
+      }
+
+      td{
+        font-size: 10px;
+      }
+
+    }
+
+    .words_search_canvas {
+      width: 500px;
+      height: 450px;
+    }
+  }
+}
