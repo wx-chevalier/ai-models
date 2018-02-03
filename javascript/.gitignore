@@ -1,4 +1,3 @@
-# Java
 .gradle
 build/
 
@@ -11,16 +10,11 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
-# Web
 dist/
-node_modules/
+/node_modules
 .DS_Store
 npm-debug.log
 .idea
 /stats.json
 /storybook-static/
 
-# Python
-.ipynb_checkpoints/
-tmp/
-*.pyc
