@@ -24,3 +24,5 @@ npm-debug.log
 .ipynb_checkpoints/
 tmp/
 *.pyc
+.data
+Icon?
