@@ -18,9 +18,13 @@ Artificial Intelligence & Deep Learning Workbench.
 
 ## [Kaggle](./kaggle) | Kaggle 常见赛例
 
-## [Models](./models) | 常见的模型的多种实现
+## Other
 
-## [Application](./apps): 人工智能、机器学习、深度学习的实践案例
+### [Models](./models) | 常见的模型的多种实现
+
+### [DataSets](./datasets) | 常见的数据源的处理
+
+### [Application](./apps): 人工智能、机器学习、深度学习的实践案例
 
 # 关于
 
