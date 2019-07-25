@@ -1,8 +1,8 @@
-# AIDL Workbench
+# Artificial Intelligence & Deep Learning Models.
 
-Artificial Intelligence & Deep Learning Workbench.
+AIDL Models 存放了笔者在日常工作实践中总结出来的机器学习、深度学习相关的模型。
 
-该仓库是 [AIDL Series | 人工智能与深度学习实战](https://github.com/wxyyxc1992/AIDL-Series)系列文章的配套代码。
+所有的 [AIDL Series | 人工智能与深度学习实战](https://github.com/wxyyxc1992/AIDL-Series)系列文章的配套代码 Python Notebook 已经迁移到了 [AIDL Series | 人工智能与深度学习实战](https://github.com/wxyyxc1992/AIDL-Series)仓库中。
 
 # Nav | 导航
 
